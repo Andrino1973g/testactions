@@ -10,4 +10,3 @@ resource "aws_vpc" "test" {
   }
 }
 
-# checking my commit
